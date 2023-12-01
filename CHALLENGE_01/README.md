@@ -30,5 +30,5 @@ console.log(firstRepeatedId3) // 5
 
 ```
 
-[Solucion](/script.js)
+[Solucion](./script.js)
 
