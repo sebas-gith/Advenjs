@@ -11,3 +11,4 @@ Soluciones a los retos de pogramacion de [adventjs.dev](https://adventjs.dev) 20
 | Retos | Dificultad | Problema | Solucion |
 | --- | --- | --- | --- |
 | Reto #1:  | <center>🟢</center> | [¡Primer regalo repetido!](/CHALLENGE_01/README.md) | [Spoiler](/CHALLENGE_01/script.js)
+| Reto #2:  | <center>🟢</center> | [🏭 We start the factory](/CHALLENGE_02/README.md) | [Spoiler](/CHALLENGE_02/script.js)
