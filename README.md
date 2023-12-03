@@ -15,6 +15,6 @@ Posicion actual:
 
 | Retos | Dificultad | Problema | Solucion |
 | --- | --- | --- | --- |
-| Reto #1:  | <center>🟢</center> | [¡Primer regalo repetido!](/CHALLENGE_01/README.md) | [Spoiler](/CHALLENGE_01/script.js)
-| Reto #2:  | <center>🟢</center> | [🏭 We start the factory](/CHALLENGE_02/README.md) | [Spoiler](/CHALLENGE_02/script.js)
-| Reto #3:  | <center>🟢</center> | [Reto #3: 😏 El elfo travieso](/CHALLENGE_03/README.md) | [Spoiler](/CHALLENGE_03/script.js)
+| Reto #1:  | <center align="center">🟢</center> | [¡Primer regalo repetido!](/CHALLENGE_01/README.md) | [Spoiler](/CHALLENGE_01/script.js)
+| Reto #2:  | <center align="center">🟢</center> | [🏭 We start the factory](/CHALLENGE_02/README.md) | [Spoiler](/CHALLENGE_02/script.js)
+| Reto #3:  | <center align="center">🟢</center> | [Reto #3: 😏 El elfo travieso](/CHALLENGE_03/README.md) | [Spoiler](/CHALLENGE_03/script.js)
