@@ -8,13 +8,18 @@ Soluciones a los retos de pogramacion de [adventjs.dev](https://adventjs.dev) 20
 
 Posicion actual:
 <p align="center">
-  <img src="./images/position3c.png" alt="Descripción de la imagen" class="aligncenter">
+  <img src="./images/position7c.png" alt="Descripción de la imagen" class="aligncenter">
 </p>
 
 ## Retos
 
-| Retos | Dificultad | Problema | Solucion |
-| --- | --- | --- | --- |
-| Reto #1:  | <center align="center">🟢</center> | [¡Primer regalo repetido!](/CHALLENGE_01/README.md) | [Spoiler](/CHALLENGE_01/script.js)
-| Reto #2:  | <center align="center">🟢</center> | [🏭 We start the factory](/CHALLENGE_02/README.md) | [Spoiler](/CHALLENGE_02/script.js)
-| Reto #3:  | <center align="center">🟢</center> | [Reto #3: 😏 El elfo travieso](/CHALLENGE_03/README.md) | [Spoiler](/CHALLENGE_03/script.js)
+| Retos | Dificultad | Problema | Solucion | Puntucacion |
+| --- | --- | --- | --- |  --- |
+| Reto #1:  | <center align="center">🟢</center> | [¡Primer regalo repetido!](/CHALLENGE_01/README.md) | [Spoiler](/CHALLENGE_01/script.js) | **<p align="center">260</p>** |
+| Reto #2:  | <center align="center">🟢</center> | [🏭 We start the factory](/CHALLENGE_02/README.md) | [Spoiler](/CHALLENGE_02/script.js)| **<p align="center">270</p>** |
+| Reto #3:  | <center align="center">🟢</center> | [😏 El elfo travieso](/CHALLENGE_03/README.md) | [Spoiler](/CHALLENGE_03/script.js)| **<p align="center">340</p>** |
+| Reto #4:  | <center>🟡</center> | [😵‍💫 Dale la vuelta a los paréntesis](/CHALLENGE_04/README.md) | [Spoiler](/CHALLENGE_04/script.js)| **<p align="center">270</p>** |
+| Reto #5:  | <center>🟡</center> | [🛷 El CyberTruck de Santa](/CHALLENGE_05/README.md) | [Spoiler](/CHALLENGE_05/script.js)| **<p align="center">160</p>** |
+| Reto #6:  | <center align="center">🟢</center> | [🦌 Los renos a prueba](/CHALLENGE_06/README.md) | [Spoiler](/CHALLENGE_06/script.js)| **<p align="center">350</p>** |
+| Reto #7:  | <center align="center">🟢</center> | [📦 Las cajas en 3D](/CHALLENGE_07/README.md) | [Spoiler](/CHALLENGE_07/script.js)| **<p align="center">260</p>** |
+| |  | | Total | **<p align="center">1910</p>** |
