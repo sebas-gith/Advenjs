@@ -22,4 +22,8 @@ Posicion actual:
 | Reto #5:  | <center>🟡</center> | [🛷 El CyberTruck de Santa](/CHALLENGE_05/README.md) | [Spoiler](/CHALLENGE_05/script.js)| **<p align="center">160</p>** |
 | Reto #6:  | <center align="center">🟢</center> | [🦌 Los renos a prueba](/CHALLENGE_06/README.md) | [Spoiler](/CHALLENGE_06/script.js)| **<p align="center">350</p>** |
 | Reto #7:  | <center align="center">🟢</center> | [📦 Las cajas en 3D](/CHALLENGE_07/README.md) | [Spoiler](/CHALLENGE_07/script.js)| **<p align="center">260</p>** |
-| |  | | Total | **<p align="center">1910</p>** |
+| Reto #8:  | <center>🟡</center> | [🏬 Ordenando el almacén](/CHALLENGE_08/README.md) | [Spoiler](/CHALLENGE_08/script.js)| **<p align="center">260</p>** |
+| Reto #9:  | <center>🟢</center> | [🚦 Alterna las luces](/CHALLENGE_09/README.md) | [Spoiler](/CHALLENGE_09/script.js)| **<p align="center">260</p>** |
+| Reto #10:  | <center>🟢</center> | [🎄 Crea tu propio árbol de navidad](/CHALLENGE_10/README.md) | [Spoiler](/CHALLENGE_10/script.js)| **<p align="center">260</p>** |
+| Reto #11:  | <center>🟡</center> | [📖 Los elfos estudiosos](/CHALLENGE_11/README.md) | [Spoiler](/CHALLENGE_11/script.js)| **<p align="center">60</p>** |
+| |  | | Total | **<p align="center">2750</p>** |
