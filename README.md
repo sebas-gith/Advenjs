@@ -8,7 +8,7 @@ Soluciones a los retos de pogramacion de [adventjs.dev](https://adventjs.dev) 20
 
 Posicion actual:
 <p align="center">
-  <img src="./images/position7c.png" alt="Descripción de la imagen" class="aligncenter">
+  <img src="./images/position11c.png" alt="Descripción de la imagen" class="aligncenter">
 </p>
 
 ## Retos
